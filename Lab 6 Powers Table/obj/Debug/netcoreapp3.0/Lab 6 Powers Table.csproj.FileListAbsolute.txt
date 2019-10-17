@@ -1,0 +1,11 @@
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Lab 6 Powers Table\Lab 6 Powers Table\obj\Debug\netcoreapp3.0\Lab 6 Powers Table.csprojAssemblyReference.cache
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Lab 6 Powers Table\Lab 6 Powers Table\obj\Debug\netcoreapp3.0\Lab 6 Powers Table.AssemblyInfoInputs.cache
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Lab 6 Powers Table\Lab 6 Powers Table\obj\Debug\netcoreapp3.0\Lab 6 Powers Table.AssemblyInfo.cs
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Lab 6 Powers Table\Lab 6 Powers Table\bin\Debug\netcoreapp3.0\Lab 6 Powers Table.exe
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Lab 6 Powers Table\Lab 6 Powers Table\bin\Debug\netcoreapp3.0\Lab 6 Powers Table.deps.json
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Lab 6 Powers Table\Lab 6 Powers Table\bin\Debug\netcoreapp3.0\Lab 6 Powers Table.runtimeconfig.json
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Lab 6 Powers Table\Lab 6 Powers Table\bin\Debug\netcoreapp3.0\Lab 6 Powers Table.runtimeconfig.dev.json
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Lab 6 Powers Table\Lab 6 Powers Table\bin\Debug\netcoreapp3.0\Lab 6 Powers Table.dll
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Lab 6 Powers Table\Lab 6 Powers Table\bin\Debug\netcoreapp3.0\Lab 6 Powers Table.pdb
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Lab 6 Powers Table\Lab 6 Powers Table\obj\Debug\netcoreapp3.0\Lab 6 Powers Table.dll
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Lab 6 Powers Table\Lab 6 Powers Table\obj\Debug\netcoreapp3.0\Lab 6 Powers Table.pdb
